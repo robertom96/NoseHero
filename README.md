@@ -44,13 +44,11 @@ python main_menu.py
 
 ⚠️ Python Version Compatibility
 
-This project requires Python 3.10 or 3.11 due to compatibility issues with the mediapipe library.
+Mediapipe has limited support for newer Python versions.
+For best compatibility, use Python **3.11.x** when running NoseHero.
 
-Python 3.12 and above are not supported, and attempting to install dependencies on those versions will result in errors like:
-
-ERROR: Could not find a version that satisfies the requirement mediapipe==...
-
- I would recommend using a virtual environment and installing Python 3.11 from python.org.
+NoseHero was originally developed on Python 3.12 with a manually configured environment.
+Some dependencies like `mediapipe` may require Python 3.11 or earlier for clean installs.
 
 ---
 
