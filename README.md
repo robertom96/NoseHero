@@ -96,13 +96,20 @@ Built using:
 ---
 
 ## Dissertation Note
-This project demonstrates an experimental DAW-like interface controlled by bcam-based gaze and blink tracking. It aims to inspire more accessible, gamified music interfaces for people with motor disabilities.
+This project demonstrates an experimental DAW-like interface controlled by webcam-based gaze and blink tracking. It aims to inspire more accessible, gamified music interfaces for people with motor disabilities.
 
 ---
 
 ## Screenshots
- todo *(Add images or GIFs here to show the interface)*
 
+### Main Menu
+![Main Menu](screenshots/menu.png)
+
+### Sandbox Mode
+![Sandbox Mode](screenshots/sandbox.png)
+
+### Rhythm Game
+![Rhythm Game](screenshots/rhythm.png)
 ---
 
 ## Contributions Welcome
