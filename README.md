@@ -47,6 +47,7 @@ python main_menu.py
 ### In All Modes
 - **Move your nose** to move the cursor
 - **Blink** to click
+- **'q'** to quit anytime
 
 ### Sandbox Mode
 - Blink on:
