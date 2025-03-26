@@ -72,7 +72,7 @@ python main_menu.py
 ---
 
 ## Credits
-Created by [Your Name] for a dissertation exploring accessible music technology.
+Created by Robert McAlpine-Wemyss for a Software Engineering (BEng) dissertation exploring accessible music technology.
 
 Built using:
 - [MediaPipe](https://github.com/google/mediapipe)
