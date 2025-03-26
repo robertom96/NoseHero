@@ -42,6 +42,18 @@ python main_menu.py
 
 ---
 
+⚠️ Python Version Compatibility
+
+This project requires Python 3.10 or 3.11 due to compatibility issues with the mediapipe library.
+
+Python 3.12 and above are not supported, and attempting to install dependencies on those versions will result in errors like:
+
+ERROR: Could not find a version that satisfies the requirement mediapipe==...
+
+ I would recommend using a virtual environment and installing Python 3.11 from python.org.
+
+---
+
 ## Controls
 
 ### In All Modes
@@ -73,18 +85,18 @@ python main_menu.py
 ---
 
 ## Credits
-Created by Robert McAlpine-Wemyss for a Software Engineering (BEng) dissertation exploring accessible music technology.
+Created by Robert McAlpine-myss for a Software Engineering (BEng) dissertation exploring accessible music technology.
 
 Built using:
 - [MediaPipe](https://github.com/google/mediapipe)
-- [PyAutoGUI](https://github.com/asweigart/pyautogui)
+- [PyAutoGUI](https://github.com/asigart/pyautogui)
 - [Pygame](https://www.pygame.org/)
 - [OpenCV](https://opencv.org/)
 
 ---
 
 ## Dissertation Note
-This project demonstrates an experimental DAW-like interface controlled by webcam-based gaze and blink tracking. It aims to inspire more accessible, gamified music interfaces for people with motor disabilities.
+This project demonstrates an experimental DAW-like interface controlled by bcam-based gaze and blink tracking. It aims to inspire more accessible, gamified music interfaces for people with motor disabilities.
 
 ---
 
